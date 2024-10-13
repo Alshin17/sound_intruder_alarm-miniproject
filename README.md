@@ -1,4 +1,4 @@
-# Sound Intruder Alarm System
+# Sound Intruder Alarm System(C++)
 
 ## Overview
 The **Sound Intruder Alarm System** is designed to detect intrusions using a combination of a **PIR motion sensor**, a **digital sound sensor**, and a **GSM module**. When an intrusion is detected, the system triggers an alarm by activating a buzzer and LED, and it sends an SMS alert to the user's mobile phone.
